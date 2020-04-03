@@ -43,6 +43,7 @@ function Fplots(id) {
           y: id_otu,
           text: labels_otu,
           type:"bar",
+          orientation: "h",
       };
 
       // create data variable
